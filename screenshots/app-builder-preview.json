@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Doodle Strike",
+      "hasCanvas": true,
+      "bodyTextLen": 413,
+      "bodyTextHash": "97f428fe45dbf8f08bdda24f9c07b99bc23696b6c028ec908fd1a17ce724146e",
+      "bodyTextPrefix": "NOTEBOOK MELEE Doodle Strike Stick-figure combat on ruled paper.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Doodle Strike",
+      "hasCanvas": true,
+      "bodyTextLen": 413,
+      "bodyTextHash": "97f428fe45dbf8f08bdda24f9c07b99bc23696b6c028ec908fd1a17ce724146e",
+      "bodyTextPrefix": "NOTEBOOK MELEE Doodle Strike Stick-figure combat on ruled paper.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
